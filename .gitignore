@@ -11,6 +11,15 @@
 # Generated files
 bin/
 gen/
+melody_kernel/
+/.git/
+.o
+.a
+/out/
+/.repo/
+/rockdev/
+*.gz
+*.bz2
 
 # Gradle files
 .gradle/
